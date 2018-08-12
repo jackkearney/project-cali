@@ -1,0 +1,15 @@
+{
+  "name": "project-cali",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackkearney/project-cali"
+  },
+  "author": "Jack Kearney"
+}
